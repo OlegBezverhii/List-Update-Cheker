@@ -1,0 +1,14 @@
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\WindowsUpdate.exe.config
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\WindowsUpdate.exe
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\WindowsUpdate.pdb
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\Microsoft.Dism.dll
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\bin\Debug\Microsoft.Dism.xml
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csproj.ResolveComReference.cache
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.Form1.resources
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.Properties.Resources.resources
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csproj.GenerateResource.Cache
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.exe
+C:\Users\Oleg\source\repos\WindowsUpdate\WindowsUpdate\obj\Debug\WindowsUpdate.pdb
